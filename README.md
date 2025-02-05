@@ -1,0 +1,1 @@
+A data analysis project on understanding the career aspirations of Gen Z, the struggle of Gen Z for desired role with their aspirations often unheard by the employed and the challenges faced by employers in attacting, retaining and managing Gen Z individuals.
